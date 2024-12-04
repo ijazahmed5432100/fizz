@@ -1,0 +1,251 @@
+header{
+   background-color:  #0a0b27;
+   display: flex;
+}
+
+
+.left-header{
+    width: 20%;
+    height: 71px;
+   color: aliceblue;
+   
+   
+}
+
+.logo{
+margin-left: 25px;
+width: 119px;
+margin-top: 26px;
+    
+}
+
+.right-header{
+     width: 80%;
+     align-content: center;
+     margin-left: 268px;
+     
+}
+
+.link{
+    
+    font-family: "merivaregular";
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: #ffff;
+    text-decoration: none;
+    letter-spacing: 1px;
+    margin-left: 16px;
+}
+
+
+.kreethi{
+    width: 100%;
+}
+
+
+container{
+    display: flex;
+}
+
+
+.black{
+    width: 50%;
+    background: rgb(0, 0, 0);
+    height: 1241px;
+    margin-top: -4px;
+    
+
+   
+}
+
+.red-image{
+    margin-top: 357px;
+    margin-left: 284px;
+    width: 190px;
+    
+      
+}
+
+.image-text{
+    color: #fff;
+    font-size: 80px;
+    text-align: center;
+    font-family: "EksellDisplayWeb-Small";
+    font-weight: 800;
+    align-items: center;
+    margin-top: -352px;
+
+}
+
+
+
+
+
+.white{
+    
+    width: 50%;
+    height: 959px;
+    margin-top: 279px;
+}
+
+
+.para{
+    font-family: "merivaregular";
+    font-family: Arial, sans-serif;
+
+    font-size: 24px;
+    line-height: 1.2;
+    margin-left: 120px;
+  
+}
+
+.facebook{
+    margin-left: 120px;
+}
+
+.pepsi-image{
+    width: 100%;
+}
+
+
+
+
+footer{
+    margin-top: -4px;
+    display: flex;
+    font-size: 14px;
+    font-family: "Arial", "Helvetica", sans-serif;
+    color:  #0a0b27;
+    line-height: 1.2;
+}
+
+
+
+.first-div{
+    width: 33%;
+    height: 266px;
+}
+
+.para-first-div{
+    margin-left: 65px;
+    margin-top: 55px;
+
+}
+
+
+
+.second-div{
+    width: 33%;
+    height: 266px;
+    
+}
+
+.para-second-div{
+
+    margin-left: 65px;
+    margin-top: 55px;
+    text-decoration: none;
+}
+
+.decoration{
+
+    text-decoration: none;
+    font-weight: bold;
+    color:  #0a0b27;
+}
+
+
+
+
+
+.third-div{
+    width: 34%;
+    height: 266px;
+    
+    
+}
+
+
+.para-third-div{
+    margin-left: 65px;
+    margin-top: 55px;
+
+
+}
+
+.social{
+
+    margin-left: 65px;
+
+}
+
+
+.iconss{
+    display: flex;
+}
+
+
+
+
+.social-icons{
+
+margin-right: 10px;
+width: 25px;
+height: 25px;
+background-color: #1a1a1a;
+color: white;
+border-radius: 50px;
+display: inline-block;
+align-items: center;
+justify-content: center;
+ text-decoration: none;
+ display: flex;
+
+    
+}
+
+
+
+.para-second-div :hover{
+    color: chocolate;
+}
+
+.para-third-div :hover{
+    color: chocolate;
+}
+
+.iconss :hover{
+    
+    background-color: chocolate;
+}
+
+.right-header :hover{
+    color: chocolate;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0;
+}
